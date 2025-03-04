@@ -48,4 +48,3 @@ and their compound operations
 
 ### Functions
 - I plan the functions to work like Assembly functions, where you branch to a function and return to the next instruction.
-- However, this didn't get implemented in my internship period.
